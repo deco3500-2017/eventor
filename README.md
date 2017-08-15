@@ -7,7 +7,7 @@
 <h2>Team</h2>
 
     1. Raihan Saputra
-    2. Yohana Hadiati - **Design**
+    2. Yohana Hadiati - __Design__
     3. Yangjun Sun
     4. Melanie Sinclair
 
