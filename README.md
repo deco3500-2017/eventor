@@ -3,7 +3,7 @@
 <h2>Introduction</h2>
 
 <h6>Problem</h6>
-Often times people find it hard to find events that they like because of limited platforms that provides such information, even when there are it is often unfiltered based on categories. Other social media platform that does provide this often times does not include all events
+Often times people find it hard to find events that they like because of limited platforms that provides such information. Social media platform that does provide this often times does not categorize these events and therefore, events provided are often cluttered and people would need to search for the events they like manually by scrolling through many other events.
 
 <h2>Concept</h2>
 
