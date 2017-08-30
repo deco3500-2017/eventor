@@ -12,10 +12,10 @@ Often times people find it hard to find events that they like because of limited
 
 | Name          | Student Number         | Tasks  |
 | ------------- |------------------------| -------|
-| Raihan Saputra      |           | $1600 |
-| Yohana Hadiati     | 44011859    |   $12 |
-| Yangjun Sun |     |    $1 |
-| Melanie Sinclair |      |    $1 |
+| Raihan Saputra      |           | Help with developing low-fidelity and high-fidelity mockups. conducting user testing and compiling the results.|
+| Yohana Hadiati     | 44011859    |   Help with developing low-fidelity and high-fidelity mockups and reating the prototype using Marvel. |
+| Yangjun Sun |     |     |
+| Melanie Sinclair |      |    |
 
 
 <h2>Communication</h2>
