@@ -27,7 +27,7 @@ Competitors that our team has found related to our project are the applications 
 | Raihan Saputra      |           | Help with developing low-fidelity and high-fidelity mockups. conducting user testing and compiling the results.|
 | Yohana Hadiati     | 44011859    |   Help with developing low-fidelity and high-fidelity mockups and reating the prototype using Marvel. |
 | Yangjun Sun |     |     |
-| Melanie Sinclair |      |    |
+| Melanie Sinclair | 43205240     |    |
 
 
 <h2>Communication</h2>
