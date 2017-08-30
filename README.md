@@ -14,9 +14,9 @@ Competitors that our team has found related to our project are the applications 
 | Eventor        | EventBrite             | Facebook Events  |
 | -------------- |------------------------| -----------------|
 | Suggestions of events are organized by the user's interest and location. User's will not be suggested events that they are not interested in and that are not in range with their current location.      | Suggestions of events are organized by type of event. User will need to scroll through events that they have no interest in.          | Suggestions are only organized by location. Often times people are pushed to scroll through events that they don't necessarily like or they're not interested in just to find a correct event. |
-| Yohana Hadiati     | 44011859    |   Help with developing low-fidelity and high-fidelity mockups and reating the prototype using Marvel. |
-| Yangjun Sun |     |     |
-| Melanie Sinclair |      |    |
+| Interactive chat group will be automatically available for the user once they have selected 'Interested'. This chat group will be between the user and the event's host which will help with 'ice breaking' especially if the user is a newbie.   | There is no chat group.  |  There is a wall post for user to post in but is less personal. Personal chat messaging is only available if the user selects it. |
+| Location of the event is only made available once the user's request to attend is accepted to ensure security. This is extremely helpful for events that are considerably small. | Location of the event is made available for everyone.    | Location of the event is made available for everyone.    |
+| Interests can be updated whenever the user wants to ensure flexibility. | This option is not made available.     | This option is not made available.    |
 
 <h2>Team</h2>
 
