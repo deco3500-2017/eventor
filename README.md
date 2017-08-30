@@ -20,8 +20,17 @@ Often times people find it hard to find events that they like because of limited
 
 <h2>Communication</h2>
 
-Communication between members and task organisation will be done primarily through platforms such as Slack and Github. In Slack, we will uphold good communication among members of our team by using it as a platform to discuss problems or ideas pertaining our project. We will also use Slack as to constantly to deliver constructive feedback amongst team members about our/their work. If necessary, further deliberation will be done in our meeting which is held during our designated two-hour workshop held each Tuesday. However, if there are disagreements that cannot be resolved by communication by using those means we will ask for advice from the course staff or course tutors who are available.
+Communication between members and task organisation will be done primarily through platforms such as Slack and Github. In Slack, we will uphold good communication among members of our team by using it as a platform to discuss problems or ideas pertaining our project. We will also use Slack as to constantly to deliver constructive feedback amongst team members about our/their work. If necessary, further deliberation will be done in our meeting which is held during our designated two-hour workshop held each Tuesday. However, if there are disagreements that cannot be resolved by communication using those means we will ask for advice from the course staff or course tutors who are available.
 
 <h2>Plan</h2>
+
+<h6>Project Phases</h6>
+
+| Project Phases          | Key Deliverables        | 
+| ----------------------- |-------------------------|
+| Research                |                         | 
+| Requirements            |                         |   
+| Design                  |                         |     
+| Construction            |                         |
 
 <h2>Tags</h2> 
