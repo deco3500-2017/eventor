@@ -47,3 +47,5 @@ File sharing will primarily be done through Github for version control as it is 
 | Construction            |                         |
 
 <h2>Tags</h2> 
+
+#awareness, #social-media, #activecommunities
