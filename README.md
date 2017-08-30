@@ -17,7 +17,6 @@ Competitors that our team has found related to our project are the applications 
 | Interactive chat group will be automatically available for the user once they have selected 'Interested'. This chat group will be between the user and the event's host which will help with 'ice breaking' especially if the user is a newbie.   | There is no chat group.  |  There is a wall post for user to post in but is less personal. Personal chat messaging is only available if the user selects it. |
 | Location of the event is only made available once the user's request to attend is accepted to ensure security. This is extremely helpful for events that are considerably small. | Location of the event is made available for everyone.    | Location of the event is made available for everyone.    |
 | Interests can be updated whenever the user wants to ensure flexibility. | This option is not made available.     | This option is not made available.    |
-
 | The choice to accept or decline a user's request to attend the event. This will help hosts of smaller events to keep track of who's coming and be in complete control. This will also help the application to give accurate suggestions and prioritize certain events for the user based on the user's history.  | This option is not available.              | This option is not available.         |
 
 <h2>Team</h2>
