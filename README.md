@@ -26,11 +26,8 @@ Competitors that our team has found related to our project are the applications 
 | The list of interests can be updated whenever the user wants to ensure flexibility. | This option is not made available.     | This option is not made available.    | This option is not made available. |
 | The host has the choice to accept or decline a user's interest to attend the event. This will help hosts of smaller events to keep track of who's coming and be in complete control.  | This option is not available.              | This option is not available.         | This option is not made available. |
 | The user has the choice to choose whether they are interested with the event or not.  | This option is available as ‘Register’ to the event. This would then lead the user to a scenario as if they’re buying a ticket.             | This option is available and is divided into three: interested, going or not interested.         | This option is available but the way it works is similar to ‘liking’ a post. |
-| User’s interest can be updated regularly whenever the user wants to. 
-For example, if a user is suddenly interested in a new hobby, basketball, they can add ‘basketball’ or ‘sports’ as their interest. The next time they open their homepage, suggestions for sports and basketball will show up in their recommendations.
-            | This option is not available as EventBrite does not categorize their events based on ‘interest’. They do, however, categorize it based on event type.
-However, the  downside to this is that if the user chooses ‘Performance’ as the type of event they want to search through, all concerts ranging from Pop to Rock concerts will show up as the suggestions. This would be time consuming if all the user wanted to find was simply just Pop concerts.
-        | This option is not available. | This option is available. |
+| User’s interest can be updated regularly whenever the user wants to. For example, if a user is suddenly interested in a new hobby, basketball, they can add ‘basketball’ or ‘sports’ as their interest. The next time they open their homepage, suggestions for sports and basketball will show up in their recommendations. | This option is not available as EventBrite does not categorize their events based on ‘interest’. They do, however, categorize it based on event type.
+However, the  downside to this is that if the user chooses ‘Performance’ as the type of event they want to search through, all concerts ranging from Pop to Rock concerts will show up as the suggestions. This would be time consuming if all the user wanted to find was simply just Pop concerts.| This option is not available. | This option is available. |
 
 <h2>Team</h2>
 
