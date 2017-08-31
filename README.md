@@ -1,12 +1,19 @@
 <h1>Eventor</h1>
 
-<h2>1.1 Introduction</h2>
-<h3>Problem</h3>
-In this day and age, smartphones and applications have become a daily necessity in everyday life. Often times people find it hard to find events that they like because of limited platforms that provides such information. Social media platform that does provide this often times does not categorize these events and therefore, events provided are often cluttered and people would need to search for the events they like manually by scrolling through many other events.
+<h2>1. Introduction</h2>
+<h3>1.1Problem</h3>
+In this day and age, smartphones and mobile applications have become a daily necessity in everyday life. Smartphone users would often rely on these mobile applications ranging from communication use to organisation use. This includes finding events for their recreational needs. However, often times people find it hard to find events that they like because of limited platforms that provides such information. Even social media platforms that do provide this often times does not give accurate results.
 
-<h2>Concept</h2>
+This becomes an inconvenience especially now that everything is fast-paced and instantaneous. In a world where everything is easily reachable with a touch of a screen, what makes an application stand out from its competitors is its ability to give the most easiest and comfortable service. And that is exactly what Eventor would like to achieve. Not only does Eventor suggests events based on the user’s location but it also filters out events in regards to the user’s interest so that they only get recommendation of events that they like. It is an application solely focused on connecting local social gatherings to potential attendees who are interested in those events but cannot find them due to not having the proper platform or merely because they do not know anyone in that community.
 
-<h6>Difference between competitors</h6>
+
+<h2>2. Concept</h2>
+
+<h3>2.1 Aim</h3>
+
+<h3>2.2 Audience</h3>
+
+<h3>2.3 Difference between competitors</h3>
 
 Competitors that our team has found related to our project are the applications Facebook Events and EventBrite.
 
