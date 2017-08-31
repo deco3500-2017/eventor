@@ -96,14 +96,27 @@ File sharing will primarily be done through Github for version control as it is 
 
 <h2>Plan</h2>
 
-<h6>Project Phases</h6>
+<h3>Deliverables</h3>
+#TODO
 
-| Project Phases          | Key Deliverables        | 
-| ----------------------- |-------------------------|
-| Research                |                         | 
-| Requirements            |                         |   
-| Design                  |                         |     
-| Construction            |                         |
+<h3>Project Phases</h3>
+
+| Project Phases          | 
+| ----------------------- |
+| Research                |
+| Design & Testing        |    
+| Report            |
+
+<h3>Research</h3>
+Base user research is needed to set a baseline of usage of current available products, both from the side of the hosts and the attendants. We will conduct interviews to find out what are they using now, how are they using it, and what they feel to be lacking in the current solutions that are available.
+With this info, we will create a more comprehensive comparison between the current solutions and what we want to build in Eventor.
+
+<h3>Design and Testing</h3>
+We will conduct an iterative design and testing workflow, in which we'll directly create a high-fidelity prototype, implementing few features to be tested in the iteration. After testing, we'll improve and implement more features to test further until we feel the results are satisfactory.
+
+For the design and building of the prototypes, we'll be using Invision, as it's a platform that enables us to design and test easily. 
+
+For testing, we'll be conducting usability tests with users, based on scenarios we think users will go through in the actual use off the app. We'll test with atleast 2 users each iteration, giving them tasks without direction and interview them after the testing.
 
 <h2>Tags</h2> 
 
