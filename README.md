@@ -9,9 +9,46 @@ This becomes an inconvenience especially now that everything is fast-paced and i
 
 <h2>2. Concept</h2>
 
+The core concept of Eventor is to provide users with suggestions of events that are being held nearby based on the interests that they have added for themselves. A user can be both an attendee or a host. The basic flow of the application is explained below.
+
+1. As an attendee
+
+The hompegae of the application is dedicated for suggestion of events for the user to choose whether they are interested or not. The events that shows up in the homepage will be based on the user's location and interest. Users have full control on which event to attend.
+
+2. As a host
+
+If a user wants to be a host, a separate page is provided for them to create an event which will be posted to the application for other users to see and attend. If another user expresses interest in the host's event, the host has the ability to accept or deny the attendee's interest to come. If the host accepts, full disclosure of the event's exact location will be shown in the event profile. The chat feature will also be available for the host and the attendee which would help the attendee communicate with the host. This would be incredibly helpful for the attendee if they are joining a whole new community.
+
+However, if the host denies their request, the exact location will not be shown. This is extremely helpful especially if the event is conducted in the host's house.
+
+3. Public Events
+
+Public events that are not hosted by a single individual are also promoted in the application. Public events are events in which people are expected to come without the need to be approved. An example of these events may include festivals, concerts and public competitions. For public events, attendees can directly choose attending or not attending. Once they do, they're ready to go. The exact location of the event is made available from the very start.
+
+4. History
+
+The more you check attend to all events you’re attending, the easier for the app to prioritize future events for your recommendation based on your history. This could encourage user's loyalty; as the more they use the app, the more they benefit from it.
+
+4. Tags
+
+Tags in Eventor is in form of interest. Both events and users can have tags. For example, user A can be interested in 'magic', 'music' and 'basketball'. An event called 'Marvel in GOMA' can have the tags 'superhero', 'comics'.
+
+5. Interest
+
+Users can change their interest whenever they want. For example, user A has 'books', 'spas' and 'basketball' as their tags (interest). However, after user A watched the movie Now You See Me, they are suddenly interested in 'magic'. User A can then add 'magic' into their list of tags and their homepage will then start suggesting events that has the tag 'magic' in them.
+
 <h3>2.1 Aim</h3>
 
+The aim of our project is essentially to suggest events to our users in a time-efficient way by extracting the user’s location and their interest. Not only that but through the flow of our application, Eventor would also like to close the social gap and further encourage people to join new communities.
+
 <h3>2.2 Audience</h3>
+
+Our target audience is the general public, which extends to:
+  1. Smartphone users who is looking for events nearby
+  2. Smartphone users who is open to new communities
+  3. Smartphone users who is planning on finding new communities
+
+The demographic for this are people who are economically spanning the middle to upper-class, based on their use of the smartphone.
 
 <h3>2.3 Difference between competitors</h3>
 
