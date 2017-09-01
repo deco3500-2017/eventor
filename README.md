@@ -41,7 +41,7 @@ Users can change their interest whenever they want. For example, user A has 'boo
 
 <h3>2.1 Aim</h3>
 
-The aim of our project is essentially to suggest events to our users in a time-efficient way by extracting the user’s location and their interest. Not only that but through the flow of our application, Eventor would also like to close the social gap and further encourage people to join new communities.
+The aim of our project is essentially to suggest events to our users in a time-efficient way by extracting the user’s location and their interest. Not only that but through the flow of our application, Eventor aims to reduce social gap by being the bridge between events and possible attendees and also possibly between hobby veterans and amateurs which would further encourage people to join new communities.
 
 <h3>2.2 Audience</h3>
 
@@ -117,7 +117,7 @@ The tools that we will be using in order to create our project are Adobe Illustr
 
 <h4>5.2.2 User Testing Tools</h4>
 
-We will gather smartphone users for our user testing needs from different backgrounds, both socially and economically.
+We will gather smartphone users for our user testing needs from different backgrounds, both socially and economically. The amount of people needed for this will be around 8 - 10 people.
 
 <h3>5.3 Deliverables</h3>
 
@@ -136,4 +136,4 @@ We will gather smartphone users for our user testing needs from different backgr
 
 <h2>6. Tags</h2> 
 
-#awareness, #social-media, #activecommunities
+#awareness, #social-media, #community, #socialmobile, #eventlocator, 
