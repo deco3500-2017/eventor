@@ -120,11 +120,12 @@ For testing, we'll be conducting usability tests with users, based on scenarios 
 <h3>5.2 Deliverables</h3>
 
 <h4>5.2.1 Project Timeline (Milestone)</h4>
+
 | Milestones          | Due Date         | 
-| ------------------- |------------------| 
+| ------------------- | ---------------- | 
 | Project Proposal    | 1 Sept 2017      |
 | Design Iteration 1  | 4 Sept 2017 - 25 Sept 2017 |
-| User Testing Iteration 1        | 25 Sept 2017 - 2 Oct 2017  |
+| User Testing Iteration 1 | 25 Sept 2017 - 2 Oct 2017  |
 | Design Iteration 2  | 2 Oct 2017 - 16 Oct 2017 |
 | User Testing Iteration 2 | 18 Oct 2017 - 20 Oct 2017 |
 | Final Refinements based on feedback | 20 Oct - 26 Oct 2017 |
