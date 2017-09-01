@@ -65,7 +65,7 @@ Competitors that our team has found related to our project are the applications 
 | The user has the choice to choose whether they are interested with the event or not.  | This option is available as ‘Register’ to the event. This would then lead the user to a scenario as if they’re buying a ticket.             | This option is available and is divided into three: interested, going or not interested.         | This option is available but the way it works is similar to ‘liking’ a post. |
 | User’s interest can be updated regularly whenever the user wants to. For example, if a user is suddenly interested in a new hobby, basketball, they can add ‘basketball’ or ‘sports’ as their interest. The next time they open their homepage, suggestions for sports and basketball will show up in their recommendations. | This option is not available as EventBrite does not categorize their events based on ‘interest’. They do, however, categorize it based on event type. However, the  downside to this is that if the user chooses ‘Performance’ as the type of event they want to search through, all concerts ranging from Pop to Rock concerts will show up as the suggestions. This would be time consuming if all the user wanted to find was simply just Pop concerts.| This option is not available. | This option is available. |
 
-<h2>Team</h2>
+<h2>3. Team</h2>
 
 
 | Name          | Student Number         | Tasks  |
@@ -76,7 +76,7 @@ Competitors that our team has found related to our project are the applications 
 | Melanie Sinclair | 43205240     | UX evaluations, ensuring prototypes and testing are informed and purposeful.  |
 
 
-<h2>Communication</h2>
+<h2>4. Communication</h2>
 
 Communication between members and task organisation will be done primarily through platforms such as Slack and Github. In Slack, we will uphold good communication among members of our team by using it as a platform to discuss problems or ideas pertaining our project. We will also use Slack as to constantly to deliver constructive feedback amongst team members about our/their work. If necessary, further deliberation will be done in our meeting which is held during our designated two-hour workshop held each Tuesday.
 
@@ -94,12 +94,9 @@ If it is still unresolved,
 
 File sharing will primarily be done through Github for version control as it is easy for us to keep track of all the changes done to our files and by whom those changes were done. 
 
-<h2>Plan</h2>
+<h2>5. Plan</h2>
 
-<h3>Deliverables</h3>
-#TODO
-
-<h3>Project Phases</h3>
+<h3>5.1 Project Phases</h3>
 
 | Project Phases          | 
 | ----------------------- |
@@ -107,17 +104,22 @@ File sharing will primarily be done through Github for version control as it is 
 | Design & Testing        |    
 | Report            |
 
-<h3>Research</h3>
+<h3>5.1.1 Research</h3>
 Base user research is needed to set a baseline of usage of current available products, both from the side of the hosts and the attendants. We will conduct interviews to find out what are they using now, how are they using it, and what they feel to be lacking in the current solutions that are available.
 With this info, we will create a more comprehensive comparison between the current solutions and what we want to build in Eventor.
 
-<h3>Design and Testing</h3>
+<h3>5.1.2 Design and Testing</h3>
 We will conduct an iterative design and testing workflow, in which we'll directly create a high-fidelity prototype, implementing few features to be tested in the iteration. After testing, we'll improve and implement more features to test further until we feel the results are satisfactory.
 
 For the design and building of the prototypes, we'll be using Invision, as it's a platform that enables us to design and test easily. 
 
 For testing, we'll be conducting usability tests with users, based on scenarios we think users will go through in the actual use off the app. We'll test with atleast 2 users each iteration, giving them tasks without direction and interview them after the testing.
 
-<h2>Tags</h2> 
+<h3>5.1.3 Report </h3>
+
+<h3>5.2 Deliverables</h3>
+#TODO
+
+<h2>6. Tags</h2> 
 
 #awareness, #social-media, #activecommunities
