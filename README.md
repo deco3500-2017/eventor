@@ -70,8 +70,8 @@ Competitors that our team has found related to our project are the applications 
 
 | Name          | Student Number         | Tasks  |
 | ------------- |------------------------| -------|
-| Raihan Saputra      | 44484060           | Help with developing low-fidelity and high-fidelity mockups. conducting user testing and compiling the results.|
-| Yohana Hadiati     | 44011859    |   Help with developing low-fidelity and high-fidelity mockups and creating the prototype using Marvel. |
+| Raihan Saputra      | 44484060           | Help with developing low-fidelity and high-fidelity mockups. Conducting user testing and compiling the results.|
+| Yohana Hadiati     | 44011859    |   Team Leader. Help with developing low-fidelity and high-fidelity mockups and creating the prototype using Marvel. |
 | Yangjun Sun | 43803105    |   Help with developing low-fidelity and high-fidility mockups, also concentrate on the final prototype.  |
 | Melanie Sinclair | 43205240     | UX evaluations, ensuring prototypes and testing are informed and purposeful.  |
 
