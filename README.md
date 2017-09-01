@@ -41,7 +41,7 @@ Users can change their interest whenever they want. For example, user A has 'boo
 
 <h3>2.1 Aim</h3>
 
-The aim of our project is essentially to suggest events to our users in a time-efficient way by extracting the user’s location and their interest. Not only that but through the flow of our application, Eventor aims to reduce social gap by being the bridge between events and possible attendees and also possibly between hobby veterans and amateurs which would further encourage people to join new communities.
+The aim of our project is essentially to suggest events to our users in a time-efficient way by extracting the user’s location and their interest. Not only that but through the flow of our application, Eventor aims to reduce the social gap by being the bridge between events and possible attendees and also possibly between hobby veterans and amateurs which would further encourage people to join new communities.
 
 <h3>2.2 Audience</h3>
 
