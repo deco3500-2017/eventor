@@ -21,6 +21,8 @@ If a user wants to be a host, a separate page is provided for them to create an 
 
 However, if the host denies their request, the exact location will not be shown. This is extremely helpful especially if the event is conducted in the host's house.
 
+Hosts has the ability to connect their application with their Facebook Page/profile. Events posted by them on Facebook can also be automatically added into Eventor. For example, if UQ Film Appreciation Society facebook page has posted an event on Facebook, this event will be added into their Eventor page and the host listed on Eventor will be the UQ Film Appreciation Society. This automation would hopefully help trigger loyalty from users to start actively adding events directly into Eventor now that they have a proper and more comfortable platform to use.
+
 3. Public Events
 
 Public events that are not hosted by a single individual are also promoted in the application. Public events are events in which people are expected to come without the need to be approved. An example of these events may include festivals, concerts and public competitions. For public events, attendees can directly choose attending or not attending. Once they do, they're ready to go. The exact location of the event is made available from the very start.
@@ -48,8 +50,6 @@ Our target audience is the general public, which extends to:
   2. Smartphone users who is open to new communities
   3. Smartphone users who is planning on finding new communities
 
-The demographic for this are people who are economically spanning the middle to upper-class, based on their use of the smartphone.
-
 <h3>2.3 Difference between competitors</h3>
 
 Competitors that our team has found related to our project are the applications Facebook Events, EventBrite and HeyLets. Facebook Events is a feature offered by Facebook which lists all active events that are being held or will be held nearest to the location of the user. EventBrite is an application that allows event organizers to plan, promote and sell tickets to events. HeyLets is an application that focuses on experiences that people enjoy and allow them to share it to the world and also matches users with relevant recommendation based on what they like.
@@ -70,7 +70,7 @@ Competitors that our team has found related to our project are the applications 
 
 | Name          | Student Number         | Tasks  |
 | ------------- |------------------------| -------|
-| Raihan Saputra      |           | Help with developing low-fidelity and high-fidelity mockups. conducting user testing and compiling the results.|
+| Raihan Saputra      | 44484060           | Help with developing low-fidelity and high-fidelity mockups. conducting user testing and compiling the results.|
 | Yohana Hadiati     | 44011859    |   Help with developing low-fidelity and high-fidelity mockups and creating the prototype using Marvel. |
 | Yangjun Sun | 43803105    |   Help with developing low-fidelity and high-fidility mockups, also concentrate on the final prototype.  |
 | Melanie Sinclair | 43205240     | UX evaluations, ensuring prototypes and testing are informed and purposeful.  |
@@ -92,17 +92,11 @@ If it is still unresolved,
 1. The team leader will consult with the tutor or the course staff who are available for advice and guidance.
 2. If necessary, peer assessment will be requested.
 
-File sharing will primarily be done through Github for version control as it is easy for us to keep track of all the changes done to our files and by whom those changes were done. 
+File sharing will primarily be done through Github for version control as it is easy for us to keep track of all the changes done to our files and by whom those changes were done. But we will also use Google Drive to store our documentation needs under the name DECO3500 - Eventor. Our file naming convention will be Eventor_XX.
 
 <h2>5. Plan</h2>
 
 <h3>5.1 Project Phases</h3>
-
-| Project Phases          | 
-| ----------------------- |
-| Research                |
-| Design & Testing        |    
-| Report            |
 
 <h4>5.1.1 Research</h4>
 Base user research is needed to set a baseline of usage of current available products, both from the side of the hosts and the attendants. We will conduct interviews to find out what are they using now, how are they using it, and what they feel to be lacking in the current solutions that are available.
@@ -115,9 +109,17 @@ For the design and building of the prototypes, we'll be using Invision, as it's 
 
 For testing, we'll be conducting usability tests with users, based on scenarios we think users will go through in the actual use off the app. We'll test with atleast 2 users each iteration, giving them tasks without direction and interview them after the testing.
 
-<h4>5.1.3 Construction </h4>
+<h3>5.2 Resources
 
-<h3>5.2 Deliverables</h3>
+<h4>5.2.1 Designing Tools</h4>
+
+The tools that we will be using in order to create our project are Adobe Illustrator in terms of designing and Adobe XD and Invisionapp/Marvelapp for our prototyping needs. Laptops and lab computers are also essential for our designing, prototyping proccess, documentation and creating promotional materials for our final presentation.
+
+<h4>5.2.2 User Testing Tools</h4>
+
+We will gather smartphone users for our user testing needs from different backgrounds, both socially and economically.
+
+<h3>5.3 Deliverables</h3>
 
 <h4>5.2.1 Project Timeline (Milestone)</h4>
 
@@ -129,6 +131,7 @@ For testing, we'll be conducting usability tests with users, based on scenarios 
 | Design Iteration 2  | 2 Oct 2017 - 16 Oct 2017 |
 | User Testing Iteration 2 | 18 Oct 2017 - 20 Oct 2017 |
 | Final Refinements based on feedback | 20 Oct - 26 Oct 2017 |
+| Promotional Materials | 16 Oct 2017 - 26 Oct 2017 |
 | Design Prototype Final Presentation  | 27 Oct 2017      |
 
 <h2>6. Tags</h2> 
