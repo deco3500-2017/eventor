@@ -104,21 +104,31 @@ File sharing will primarily be done through Github for version control as it is 
 | Design & Testing        |    
 | Report            |
 
-<h3>5.1.1 Research</h3>
+<h4>5.1.1 Research</h4>
 Base user research is needed to set a baseline of usage of current available products, both from the side of the hosts and the attendants. We will conduct interviews to find out what are they using now, how are they using it, and what they feel to be lacking in the current solutions that are available.
 With this info, we will create a more comprehensive comparison between the current solutions and what we want to build in Eventor.
 
-<h3>5.1.2 Design and Testing</h3>
+<h4>5.1.2 Design and Testing</h3>
 We will conduct an iterative design and testing workflow, in which we'll directly create a high-fidelity prototype, implementing few features to be tested in the iteration. After testing, we'll improve and implement more features to test further until we feel the results are satisfactory.
 
 For the design and building of the prototypes, we'll be using Invision, as it's a platform that enables us to design and test easily. 
 
 For testing, we'll be conducting usability tests with users, based on scenarios we think users will go through in the actual use off the app. We'll test with atleast 2 users each iteration, giving them tasks without direction and interview them after the testing.
 
-<h3>5.1.3 Report </h3>
+<h4>5.1.3 Construction </h4>
 
 <h3>5.2 Deliverables</h3>
-#TODO
+
+<h4>5.2.1 Project Timeline (Milestone)</h4>
+| Milestones          | Due Date         | 
+| ------------------- |------------------| 
+| Project Proposal    | 1 Sept 2017      |
+| Design Iteration 1  | 4 Sept 2017 - 25 Sept 2017 |
+| User Testing Iteration 1        | 25 Sept 2017 - 2 Oct 2017  |
+| Design Iteration 2  | 2 Oct 2017 - 16 Oct 2017 |
+| User Testing Iteration 2 | 18 Oct 2017 - 20 Oct 2017 |
+| Final Refinements based on feedback | 20 Oct - 26 Oct 2017 |
+| Design Prototype Final Presentation  | 27 Oct 2017      |
 
 <h2>6. Tags</h2> 
 
