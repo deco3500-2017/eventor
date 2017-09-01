@@ -136,4 +136,4 @@ We will gather smartphone users for our user testing needs from different backgr
 
 <h2>6. Tags</h2> 
 
-#awareness, #social-media, #community, #socialmobile, #eventlocator, #collaboration, #appropriation
+#awareness, #socialmedia, #community, #socialmobile, #eventlocator, #collaboration, #appropriation
