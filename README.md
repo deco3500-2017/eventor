@@ -109,6 +109,13 @@ For the design and building of the prototypes, we'll be using Invision, as it's 
 
 For testing, we'll be conducting usability tests with users, based on scenarios we think users will go through in the actual use off the app. We'll test with atleast 2 users each iteration, giving them tasks without direction and interview them after the testing.
 
+<h4>5.1.2.3 Design Progress</h4>
+
+Low fidelity designs have been created with a few different choices of possibilities. The best design will be chosen through user testing with Marvelapp to see which of the flows is the best one.
+
+First choice: https://marvelapp.com/2hje99c
+Second Choice: https://marvelapp.com/2aefc57
+
 <h3>5.2 Resources
 
 <h4>5.2.1 Designing Tools</h4>
@@ -127,7 +134,7 @@ We will gather smartphone users for our user testing needs from different backgr
 | ------------------- | ---------------- | 
 | Project Proposal    | 1 Sept 2017      |
 | Design Iteration 1  | 4 Sept 2017 - 25 Sept 2017 |
-| User Testing Iteration 1 | 25 Sept 2017 - 2 Oct 2017  |
+| User Testing Iteration 1 | 25 Sept 2017 - 6 Oct 2017  |
 | Design Iteration 2  | 2 Oct 2017 - 16 Oct 2017 |
 | User Testing Iteration 2 | 18 Oct 2017 - 20 Oct 2017 |
 | Final Refinements based on feedback | 20 Oct - 26 Oct 2017 |
