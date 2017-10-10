@@ -141,6 +141,20 @@ We will gather smartphone users for our user testing needs from different backgr
 | Promotional Materials | 16 Oct 2017 - 26 Oct 2017 |
 | Design Prototype Final Presentation  | 27 Oct 2017      |
 
-<h2>6. Tags</h2> 
+<h2>6. Documentation</h2>
+
+<h3>6.1 Design Iteration 1</h3>
+
+Based on the research done through the survey in https://goo.gl/forms/zJKFTlOHjzG1JBQj2, in our first design iteration our group has come up with the low fidelity designs for the application. The low fidelity screens that are created are the MVP features of the application which are grouped in the design1 folder in the Github. However, our team's focus for the user testing of this first design iteration is to determine which of the designs created fits the user the most. During this first iteration, our group has come up with two ways for the user to find their events. The first one would be a Tinder-like page for the user to use to scroll through events recommended based on their interest and location, but visually focuses on the event profile itself, shown below:
+
+![alt text](https://github.com/deco3500-2017/eventor/blob/master/design1/EventsTinderlike.png)
+
+The second option would be a Map-based page where user can use to find events based on their interest and location but visually focuses on the user's current location, shown below:
+
+![alt text](https://github.com/deco3500-2017/eventor/blob/master/design1/EventsMap.png)
+
+By the end of the first iteration user testing, we will have a decision on which concept to use and add additional non-MVP designs for the application. We will also create the final high fidelity designs based on our user tests and these should match well with the needs of the user. This is so that once we do our second user test, we can find the best possible screens for our potential user.
+
+<h2>7. Tags</h2> 
 
 #awareness, #socialmedia, #community, #socialmobile, #eventlocator, #collaboration, #appropriation
