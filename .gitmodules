@@ -1,0 +1,3 @@
+[submodule "eventor-prototype"]
+	path = eventor-prototype
+	url = https://github.com/rraihansaputra/eventor.git
