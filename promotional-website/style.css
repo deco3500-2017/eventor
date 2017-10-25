@@ -74,7 +74,48 @@ a:hover{
     padding-bottom: 10px;
     color: #000000;
     font-family: "GT Walsheim Light";
+}
+
+#about0{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 330px;
+    color: #000000;
+    font-family: "GT Walsheim Light";
+    width: 700px;
+    height: 300px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#about1{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #000000;
+    font-family: "GT Walsheim Light";
     width: 550px;
+    height: 400px;
+    text-align: center;
+    float: left;
+    margin-left: 50px;
+}
+
+#about2{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #000000;
+    font-family: "GT Walsheim Light";
+    width: 550px;
+    margin-right: 50px;
+    height: 400px;
+    text-align: center;
+    float: right;
 }
 
 #video{
@@ -159,7 +200,7 @@ a:hover{
 #featuresdiv  {
     background-color: #fff;
     width: 100%;
-    height: 500px;
+    height: 900px;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -223,16 +264,13 @@ a:hover{
 
 #purchasediv {
     background-color: #282625;
-    margin-top: 0px;
+    margin-top: 50px;
     height: 410px;
     width: 100%;
     padding-right: 30px;
+    border: 1px black solid;
 }
 
-#myCarousel{
-    background-color: #006FBE;
-    opacity: 50%;
-}
 
 #phonelaptopicon{
     height:100%;
