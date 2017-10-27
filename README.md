@@ -173,7 +173,7 @@ The prototype can be tested on your own phone by downloading the Expo app and sc
 
 The code for the prototype is available in the eventor-prototype submodule.
 
-<img src="3-interactive-prototype/qrcode.png)
+<img src="3-interactive-prototype/qrcode.png">
 
 <h2>7. Tags</h2> 
 
