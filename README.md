@@ -160,10 +160,10 @@ By the end of the first iteration user testing, we will have a decision on which
 <h3>6.3 Interactive Prototype</h3>
 
 <img src="3-interactive-prototype/home.png" width="400">
-![](3-interactive-prototype/filter-screen.png) <!-- .element height="50%" width="50%" -->
-![](3-interactive-prototype/upcoming-events.png) <!-- .element height="50%" width="50%" -->
-![](3-interactive-prototype/create-event.png) <!-- .element height="50%" width="50%" -->
-![](3-interactive-prototype/host-calendar.png) <!-- .element height="50%" width="50%" -->
+<img src="3-interactive-prototype/filter-screen.png" width="400">
+<img src="3-interactive-prototype/upcoming-events" width="400">
+<img src="3-interactive-prototype/create-event" width="400">
+<img src="3-interactive-prototype/host-calendar" width="400">
 
 This prototype is meant to represent the interactivity that we want on the final product, including the swipe cards the ability to select interest (through tags), see events that the user is interested in, the ability to create events on the platform and see the list of created events.
 
@@ -173,7 +173,7 @@ The prototype can be tested on your own phone by downloading the Expo app and sc
 
 The code for the prototype is available in the eventor-prototype submodule.
 
-![](3-interactive-prototype/qrcode.png)
+<img src="3-interactive-prototype/qrcode.png)
 
 <h2>7. Tags</h2> 
 
