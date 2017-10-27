@@ -159,7 +159,7 @@ By the end of the first iteration user testing, we will have a decision on which
 
 <h3>6.3 Interactive Prototype</h3>
 
-![](3-interactive-prototype/home.png) <!-- .element height="50%" width="50%" --> 
+<img src="3-interactive-prototype/home.png" width="400">
 ![](3-interactive-prototype/filter-screen.png) <!-- .element height="50%" width="50%" -->
 ![](3-interactive-prototype/upcoming-events.png) <!-- .element height="50%" width="50%" -->
 ![](3-interactive-prototype/create-event.png) <!-- .element height="50%" width="50%" -->
