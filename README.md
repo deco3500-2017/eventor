@@ -156,7 +156,7 @@ Based on the research done through the survey in https://goo.gl/forms/zJKFTlOHjz
 
 By the end of the first iteration user testing, we will have a decision on which concept to use and add additional non-MVP designs for the application. We will also create the final high fidelity designs based on our user tests and these should match well with the needs of the user. This is so that once we do our second user test, we can find the best possible screens for our potential user.
 
-We decided on list view and card view because list view is used widely in the current and past web interactions such as Facebook Events, and card view is used because the interesting restrictions it imposed on the interaction of the event choices on the user as observed on Tinder. Not only that, the cards provide a natural and consistent experience on different devices [1](https://thenextweb.com/dd/2015/11/16/why-cards-are-dominating-mobile-design/).
+We decided on list view and card view because list view is used widely in the current and past web interactions such as Facebook Events, and card view is used because the interesting restrictions it imposed on the interaction of the event choices on the user as observed on Tinder. The big card interface displays all the related information in a clear way that is understandable through a quick glance. The restriction on only swiping on the displayed card instead of browsing through forces the user to make a decision whether they are interested in the displayed event to see another event that they might enjoy. Not only that, the cards provide a natural and consistent experience on different devices [1](https://thenextweb.com/dd/2015/11/16/why-cards-are-dominating-mobile-design/).
 
 <h3>6.2 Design Iteration 2</h3>
 
