@@ -151,7 +151,7 @@ Based on the research done through the survey in https://goo.gl/forms/zJKFTlOHjz
 
 ![alt text](https://github.com/deco3500-2017/eventor/blob/master/design1/EventsTinderlike.png)
 
-![alt text](design1/EventsLists)
+![alt text](design1/EventsLists.png)
 
 We decided on list view and card view because list view is used widely in the current and past web interactions such as Facebook Events, and card view is used because the interesting restrictions it imposed on the interaction of the event choices on the user as observed on Tinder. The big card interface displays all the related information in a clear way that is understandable through a quick glance. The restriction on only swiping on the displayed card instead of browsing through forces the user to make a decision whether they are interested in the displayed event to see another event that they might enjoy. Not only that, the cards provide a natural and consistent experience on different devices [1](https://thenextweb.com/dd/2015/11/16/why-cards-are-dominating-mobile-design/).
 
@@ -159,7 +159,7 @@ We decided on list view and card view because list view is used widely in the cu
 
 Based on the user testing we have conducted for the first design iteration and the feedback we received from our potential users, we have decided to use the Card interaction compared to the list interaction. Users prefered the card interaction compared to the list interaction because the card provides more information about the event whereas the list interaction only provides minimum information due to space restrictions. 
 
-![alt text](Eventor_High_Fidelity_Events_Tinder-like.png)
+![alt text](Eventor_Design_Iteration_2/Eventor_High_Fidelity_Events_Tinder-like.png)
 
 <h3>6.3 Interactive Prototype</h3>
 
@@ -179,6 +179,16 @@ The code for the prototype is available in the eventor-prototype submodule.
 
 <img src="3-interactive-prototype/qrcode.png">
 
-<h2>7. Tags</h2> 
+<h2>7. Showcase Evaluations</h2>
+From the showcase we got positive responses towards our concept. Most people can relate to the problem and can see themselves using this app. Some changes that we are interested in exploring are:
+
+- Exploring other ways to display event information on the card to assist users in deciding whether to be interested in the event or not
+- Highlighting matching tags so the user know why they are seeing this event
+- Interface for hosts to see people that are interested in their event.
+- Different tag filter interface
+- Filter based on time and distance
+- Exploring the third choice of 'maybe'
+
+<h2>8. Tags</h2> 
 
 #awareness, #socialmedia, #community, #socialmobile, #eventlocator, #collaboration, #appropriation
