@@ -1,4 +1,7 @@
+[](logo.png)
 <h1>Eventor</h1>
+
+[<h2>Promotional Website</h2>](http://eventor.uqcloud.net)
 
 <h2>1. Introduction</h2>
 <h3>1.1 Problem</h3>
@@ -145,15 +148,15 @@ We will gather smartphone users for our user testing needs from different backgr
 
 <h3>6.1 Design Iteration 1</h3>
 
-Based on the research done through the survey in https://goo.gl/forms/zJKFTlOHjzG1JBQj2, in our first design iteration our group has come up with the low fidelity designs for the application. The low fidelity screens that are created are the MVP features of the application which are grouped in the design1 folder in the Github. However, our team's focus for the user testing of this first design iteration is to determine which of the designs created fits the user the most. During this first iteration, our group has come up with two ways for the user to find their events. The first one would be a Tinder-like page for the user to use to scroll through events recommended based on their interest and location, but visually focuses on the event profile itself, shown below:
+Based on the research done through the survey in https://goo.gl/forms/zJKFTlOHjzG1JBQj2, in our first design iteration our group has come up with the low fidelity designs for the application. The low fidelity screens that are created are the MVP features of the application which are grouped in the design1 folder in the Github. However, our team's focus for the user testing of this first design iteration is to determine which of the designs created fits the user the most. During this first iteration, our group has come up with two ways for the user to find their events. The first one would be a Tinder-like page for the user to use to scroll through events recommended based on their interest and location, but visually focuses on the event profile itself, shown below the tinder-like swipe cards and the list interface:
 
 ![alt text](https://github.com/deco3500-2017/eventor/blob/master/design1/EventsTinderlike.png)
 
-The second option would be a Map-based page where user can use to find events based on their interest and location but visually focuses on the user's current location, shown below:
-
-![alt text](https://github.com/deco3500-2017/eventor/blob/master/design1/EventsMap.png)
+![alt text](design1/EventsLists)
 
 By the end of the first iteration user testing, we will have a decision on which concept to use and add additional non-MVP designs for the application. We will also create the final high fidelity designs based on our user tests and these should match well with the needs of the user. This is so that once we do our second user test, we can find the best possible screens for our potential user.
+
+We decided on list view and card view because list view is used widely in the current and past web interactions such as Facebook Events, and card view is used because the interesting restrictions it imposed on the interaction of the event choices on the user as observed on Tinder. Not only that, the cards provide a natural and consistent experience on different devices [1](https://thenextweb.com/dd/2015/11/16/why-cards-are-dominating-mobile-design/).
 
 <h3>6.2 Design Iteration 2</h3>
 
@@ -169,7 +172,7 @@ This prototype is meant to represent the interactivity that we want on the final
 
 The prototype is built on React Native to use the native interactions that are available on mobile platforms. It was built with the Expo XDE (Experience Design Environment) to speed up testing. The code theoritically should be able to run on both Android and iOS but testing revealed the prototype only works as expected on Android
 
-The prototype can be tested on your own phone by downloading the Expo app and scan the QR code below.
+The prototype can be tested on your own phone by downloading the Expo app and scan the QR code below or through [this link](https://expo.io/@rraihansaputra/eventor).
 
 The code for the prototype is available in the eventor-prototype submodule.
 
