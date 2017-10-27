@@ -155,6 +155,12 @@ The second option would be a Map-based page where user can use to find events ba
 
 By the end of the first iteration user testing, we will have a decision on which concept to use and add additional non-MVP designs for the application. We will also create the final high fidelity designs based on our user tests and these should match well with the needs of the user. This is so that once we do our second user test, we can find the best possible screens for our potential user.
 
+<h3>6.2 Design Iteration 2</h3>
+
+<h3>6.3 Final Prototype</h3>
+
+Last prototype design: https://expo.io/@rraihansaputra/eventor
+
 <h2>7. Tags</h2> 
 
 #awareness, #socialmedia, #community, #socialmobile, #eventlocator, #collaboration, #appropriation
