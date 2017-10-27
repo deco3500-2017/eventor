@@ -1,6 +1,6 @@
-[](logo.png)
+![](logo.png)
 <h1>Eventor</h1>
-[<h2>Promotional Website</h2>](http://eventor.uqcloud.net)
+[Promotional Website](http://eventor.uqcloud.net)
 
 <h2>1. Introduction</h2>
 <h3>1.1 Problem</h3>
@@ -149,7 +149,7 @@ We will gather smartphone users for our user testing needs from different backgr
 
 Based on the research done through the survey in https://goo.gl/forms/zJKFTlOHjzG1JBQj2, in our first design iteration our group has come up with the low fidelity designs for the application. The low fidelity screens that are created are the MVP features of the application which are grouped in the design1 folder in the Github. However, our team's focus for the user testing of this first design iteration is to determine which of the designs created fits the user the most. During this first iteration, our group has come up with two ways for the user to find their events. The first one would be a Tinder-like page for the user to use to scroll through events recommended based on their interest and location, but visually focuses on the event profile itself, shown below the tinder-like swipe cards and the list interface:
 
-![alt text](https://github.com/deco3500-2017/eventor/blob/master/design1/EventsTinderlike.png)
+![alt text](design1/EventsTinderlike.png)
 
 ![alt text](design1/EventsLists.png)
 
@@ -159,7 +159,7 @@ We decided on list view and card view because list view is used widely in the cu
 
 Based on the user testing we have conducted for the first design iteration and the feedback we received from our potential users, we have decided to use the Card interaction compared to the list interaction. Users prefered the card interaction compared to the list interaction because the card provides more information about the event whereas the list interaction only provides minimum information due to space restrictions. 
 
-![alt text](Eventor_Design_Iteration_2/Eventor_High_Fidelity_Events_Tinder-like.png)
+<img src="Eventor_Design_Iteration_2/Eventor_High_Fidelity_Events_Tinder-like.png" width="400">
 
 <h3>6.3 Interactive Prototype</h3>
 
