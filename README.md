@@ -157,9 +157,23 @@ By the end of the first iteration user testing, we will have a decision on which
 
 <h3>6.2 Design Iteration 2</h3>
 
-<h3>6.3 Final Prototype</h3>
+<h3>6.3 Interactive Prototype</h3>
 
-Last prototype design: https://expo.io/@rraihansaputra/eventor
+![](3-interactive-prototype/home.png) <!-- .element height="50%" width="50%" --> 
+![](3-interactive-prototype/filter-screen.png) <!-- .element height="50%" width="50%" -->
+![](3-interactive-prototype/upcoming-events.png) <!-- .element height="50%" width="50%" -->
+![](3-interactive-prototype/create-event.png) <!-- .element height="50%" width="50%" -->
+![](3-interactive-prototype/host-calendar.png) <!-- .element height="50%" width="50%" -->
+
+This prototype is meant to represent the interactivity that we want on the final product, including the swipe cards the ability to select interest (through tags), see events that the user is interested in, the ability to create events on the platform and see the list of created events.
+
+The prototype is built on React Native to use the native interactions that are available on mobile platforms. It was built with the Expo XDE (Experience Design Environment) to speed up testing. The code theoritically should be able to run on both Android and iOS but testing revealed the prototype only works as expected on Android
+
+The prototype can be tested on your own phone by downloading the Expo app and scan the QR code below.
+
+The code for the prototype is available in the eventor-prototype submodule.
+
+![](3-interactive-prototype/qrcode.png)
 
 <h2>7. Tags</h2> 
 
